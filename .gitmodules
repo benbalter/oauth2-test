@@ -1,0 +1,3 @@
+[submodule "php-oauth2"]
+	path = php-oauth2
+	url = https://github.com/adoy/PHP-OAuth2.git
